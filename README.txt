@@ -18,3 +18,7 @@ https://reactjs.org/docs/create-a-new-react-app.html
 npx create-react-app app_name
 
 
+
+ADD BOOTSTRAP
+
+npm i bootstrap@5.2.3
