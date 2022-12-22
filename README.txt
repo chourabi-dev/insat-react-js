@@ -22,3 +22,17 @@ npx create-react-app app_name
 ADD BOOTSTRAP
 
 npm i bootstrap@5.2.3
+
+
+
+Add routing
+
+https://reactrouter.com/en/main
+
+npm install react-router-dom
+
+
+
+POSTMAN 
+
+https://www.postman.com/
